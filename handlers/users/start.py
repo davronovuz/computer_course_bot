@@ -938,7 +938,7 @@ Savollaringiz bormi? Bizga bog'laning:
 
 
 
-COURSE_PLAN_FILE_ID = "BQACAgIAAxkBAAIR0mlZAAE4i5bbCJvsWKvlNdPNkMIsGgACDYgAAj9lyUps2rXTDH6uGDgE"
+COURSE_PLAN_FILE_ID = "BQACAgIAAxkBAAICp2laDT4ZXZJlaOf-MNOFz61FLSO_AALohQAC_RhIStTVoEHhMx9aOAQ"
 
 
 @dp.message_handler(text="📥 Dars rejasi")
