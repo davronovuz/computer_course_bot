@@ -140,7 +140,7 @@ async def cmd_start(message: types.Message, state: FSMContext):
             return
 
     text = """
-    <b>IT TAT markazining Online Kompyuter Savodxonlik Kursiga xush kelibsiz!</b>
+    <b>Online Kompyuter Savodxonlik Kursiga xush kelibsiz!</b>
 
     Siz hozir o‘zingizni rivojlantirish, yangi ko‘nikmalar orttirish va kelajagingizga sarmoya qilish yo‘lida birinchi va eng muhim qadamni tashladingiz.
 
