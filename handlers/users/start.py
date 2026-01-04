@@ -902,7 +902,7 @@ def get_course_info() -> dict:
 @dp.message_handler(text="📢 Telegram kanal")
 async def open_channel_handler(message: types.Message):
     # Kanal havolasi
-    channel_url = "https://t.me/it_tat_samarkand"  # O'zingiznikini qo'ying
+    channel_url = "https://t.me/davronovdev"  # O'zingiznikini qo'ying
 
     # Chiroyli ko'rinishi uchun Inline tugma ham qo'shamiz
     kb = InlineKeyboardMarkup()
@@ -921,8 +921,8 @@ async def contact_admin_menu(message: types.Message):
     Admin aloqa ma'lumotlarini chiqarish
     """
     # Ma'lumotlarni o'zingizga moslang
-    admin_phone = "+998 90 102 04 40"
-    admin_username = "@it_tat_qabul"
+    admin_phone = "+998 94 477 62 62"
+    admin_username = "@davronovsimple"
 
     text = f"""
 📞 <b>Admin bilan aloqa</b>
